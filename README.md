@@ -3,6 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chipukajaison](https://github.com/chipukajaison)
 
-- 📫 How to reach me **chipukajaison@gmail.com** or on **jaison.chipuka@outlook.com**
+- 📫 How to reach me **chipukajaison@gmail.com** or **jaison.chipuka@outlook.com**
 
 <!-- - 📄 Know about my experiences [https://nyashachiza.github.io/chizaResume/](https://nyashachiza.github.io/chizaResume/) -->
